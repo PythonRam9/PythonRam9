@@ -19,21 +19,21 @@ Hi, I'm Rami M, a self-taught programmer from Palestine 🚀 I am currently lear
 
 **🔨 My Tools:**  
 
-<img height="20" src="https://github.com/abranhe/programming-languages-logos/blob/master/src/python/python_64x64.png">
-<img height="20" src="https://github.com/abranhe/programming-languages-logos/blob/master/src/cpp/cpp_64x64.png">
-<img height="20" src="https://github.com/gilbarbara/logos/blob/master/logos/selenium.svg">
-<img height="20" src="https://github.com/gilbarbara/logos/blob/master/logos/git-icon.svg">
-<img height="20" src="https://github.com/abranhe/programming-languages-logos/blob/master/src/javascript/javascript_64x64.png">
-<img height="20" src="https://github.com/gilbarbara/logos/blob/master/logos/nodejs-icon.svg">
-<img height="20" src="https://github.com/abranhe/programming-languages-logos/blob/master/src/html/html_64x64.png">
-<img height="20" src="https://github.com/abranhe/programming-languages-logos/blob/master/src/css/css_64x64.png">
+<code><img height="20" src="https://github.com/abranhe/programming-languages-logos/blob/master/src/python/python_64x64.png"></code>
+<code><img height="20" src="https://github.com/abranhe/programming-languages-logos/blob/master/src/cpp/cpp_64x64.png"></code>
+<code><img height="20" src="https://github.com/gilbarbara/logos/blob/master/logos/selenium.svg"></code>
+<code><img height="20" src="https://github.com/gilbarbara/logos/blob/master/logos/git-icon.svg"></code>
+<code><img height="20" src="https://github.com/abranhe/programming-languages-logos/blob/master/src/javascript/javascript_64x64.png"></code>
+<code><img height="20" src="https://github.com/gilbarbara/logos/blob/master/logos/nodejs-icon.svg"></code>
+<code><img height="20" src="https://github.com/abranhe/programming-languages-logos/blob/master/src/html/html_64x64.png"></code>
+<code><img height="20" src="https://github.com/abranhe/programming-languages-logos/blob/master/src/css/css_64x64.png"></code>
 
 
 
 📈 My Github Stats
 
 <img src="https://github-readme-stats.vercel.app/api?username=PythonRam9&&show_icons=true&title_color=CE1225&icon_color=FFFFFF&text_color=007A3D&bg_color=000000">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PythonRam9&layout=compact">
+<img align="right "src="https://github-readme-stats.vercel.app/api/top-langs/?username=PythonRam9&layout=compact">
 
 ⭐️ Latets Projects
 
