@@ -3,7 +3,7 @@
 <br />
 <br />
 
-Hi, I'm Rami M, a self-taught programmer from Palestine 🚀 I am currently learing to make Discord-Bots 🦾🤖 and I freelance on [@Upwork](https://www.upwork.com/) 👨🏽‍💻 Beside's programming, I enjoy reading novels and manga.
+Hi, I'm Rami M, a self-taught programmer from Palestine 🚀 I am currently learning to make Discord-Bots 🦾🤖 and I freelance on [@Upwork](https://www.upwork.com/) 👨🏽‍💻 Beside's programming, I enjoy reading novels and manga.
 
 <br />
 
