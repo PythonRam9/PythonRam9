@@ -23,7 +23,7 @@
 <img align="right "src="https://github-readme-stats.vercel.app/api/top-langs/?username=PythonRam9&layout=compact"><br>
 
 <p align="center">
-  <imgsrc="https://img.shields.io/github/followers/PythonRam9?style=for-the-badge&logo=stylelint&color=red">
-  <img src="https://komarev.com/ghpvc/?username=PythonRam9&style=for-the-badge&logo=Streamlit&color=black&logo=Bookmeter">
+  <img src="https://img.shields.io/github/followers/PythonRam9?style=for-the-badge&logo=stylelint&color=red">
+  <img src="https://komarev.com/ghpvc/?username=PythonRam9&style=for-the-badge&logo=Streamlit&color=blue&logo=Bookmeter">
   <img src="https://img.shields.io/github/stars/PythonRam9?style=for-the-badge&logo=Streamlit&color=red">
 </p>
