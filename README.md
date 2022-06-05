@@ -1,10 +1,42 @@
 
 
-<img align="right" alt="am dark heker :p" src="https://c.tenor.com/-n4k63Qsk-4AAAAM/anonymous-hacker.gif" />
+<img align="right" alt="am dark heker :p" src="https://github.com/PythonRam9/PythonRam9/blob/main/tumblr_6dd322efcc12b15866f17ca52ba31e0f_70847112_400.gif?raw=true" />
   
-**📋 Info:**
 
 ### 🍭
+
+```py
+import requests # ( Obsessed with HTTP requests )
+
+class Ram9:
+
+  def __init__(self):
+  
+    self.age = 15
+    self.main_langs = [
+    
+      "Python",
+      "Javascript",
+      "C++"
+      
+      ]
+    self.learning = [
+    
+      "HTML + CSS",
+      "MySQL",
+      "WebSockets",
+      "Django"
+    
+    ]
+    self.tools = [
+    
+      "Git",
+      "Flask",
+      "Selenium",
+      "Node.JS"
+    
+    ]
+```
 
 <br />
 
