@@ -1,16 +1,6 @@
-<style>
-  .container-name div { 
-    display: inline-block; 
-	width: 500px; 
-	min-height: 50px; 
-	background-color: #eee; 
-	height: auto; 
-  } 
-</style>
 
-<br />
 
-  <img align="right" alt="am dark heker :p" src="https://c.tenor.com/-n4k63Qsk-4AAAAM/anonymous-hacker.gif" />
+<img align="right" alt="am dark heker :p" src="https://c.tenor.com/-n4k63Qsk-4AAAAM/anonymous-hacker.gif" />
   
 **📋 Info:**
 
@@ -31,7 +21,7 @@
 
 ### 📈
 
-<div class="container-name"> 
+<div style=display:inline-block;width:500px;min-height:50px;background-color:#eee;height:auto;"> 
 <div class="div1"><img align="right "src="https://github-readme-stats.vercel.app/api/top-langs/?username=PythonRam9&layout=compact"></div> 
 <div class="div2"><img src="https://github-readme-stats.vercel.app/api?username=PythonRam9&&show_icons=true&title_color=CE1225&icon_color=FFFFFF&text_color=007A3D&bg_color=000000"></div> 
 </div>
