@@ -20,7 +20,7 @@
 <br />
 
 ### 📈
-<img align="right "src="https://github-readme-stats.vercel.app/api/top-langs/?username=PythonRam9&layout=compact"><br>
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PythonRam9&layout=compact"></img><br>
 
 <p align="center">
   <img src="https://img.shields.io/github/followers/PythonRam9?style=for-the-badge&logo=stylelint&color=red">
