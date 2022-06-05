@@ -33,7 +33,8 @@ class Ram9:
       "Git",
       "Flask",
       "Selenium",
-      "Node.JS"
+      "Node.JS",
+      "BeautifulSoup"
     
     ]
 ```
